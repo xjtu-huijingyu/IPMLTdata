@@ -1,2 +1,2 @@
-# IPMLTdata
-This repository provides the IPMLT data used in the paper "A Variable-step Diagonal Quadratic Approximation Method for Inter-provincial Medium- and Long-term Transaction Optimization."
+# MPC-IPMLTdata
+This repository provides the MPC-IPMLT data used in the paper "Multi-Path-Constrained Inter-Provincial Medium- and Long-Term Transaction Mechanism and Parallel Acceleration Algorithm for Its Clearing Model".
